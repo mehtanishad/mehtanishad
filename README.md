@@ -7,7 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/iamehta_nishad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Error" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iamehta_nishad//" target="_blank"><img class="MyImg" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Error" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mehta-nishad/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Error" height="30" width="30" /></a>&nbsp;
+<a href="live:.cid.aee794085834db04" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174869.png" alt="Error" height="30" width="30"></a>&nbsp;
 </p>
 <p align="left">
  
