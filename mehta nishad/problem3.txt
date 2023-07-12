@@ -1,0 +1,5 @@
+even_numbers = []
+for num in range(100, -1, -2):
+    even_numbers.append(num)
+
+print(even_numbers)

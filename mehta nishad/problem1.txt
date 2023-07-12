@@ -1,0 +1,11 @@
+def count_letter(input_str, output_file):
+    letter_count = {}
+    for letter in input_str:
+        if letter in letter_count:
+            letter_count[letter] += 1
+        else:
+            letter_count[letter] = 1
+    
+    with open(output_file, "a") as file:
+        for key, value in letter_count.items():
+            file.write(f"{key}:{value},")
